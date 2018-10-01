@@ -2,9 +2,9 @@ package com.websystique.springboot.util;
 
 
 public class CustomErrorType {
-	//CustomErrorType
+	//CustomErrorType 1111
 
-    private String errorMessage;
+	private String errorMessage;
 
     public CustomErrorType(String errorMessage){
         this.errorMessage = errorMessage;
