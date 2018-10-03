@@ -12,7 +12,7 @@ import com.websystique.springboot.configuration.JpaConfiguration;
 public class SpringBootCRUDApp {
 
 	public static void main(String[] args) {
-		//SpringBootCRUDApp 33133
+		//SpringBootCRUDApp 331wertecwtrcwtrwe33
 		SpringApplication.run(SpringBootCRUDApp.class, args);
 	}
 }
