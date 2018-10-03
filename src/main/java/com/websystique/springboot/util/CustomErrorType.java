@@ -2,7 +2,7 @@ package com.websystique.springboot.util;
 
 
 public class CustomErrorType {
-	//CustomErrorType 1111
+	//CustomErrorType 2222
 
 	private String errorMessage;
 
